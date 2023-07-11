@@ -1,1 +1,1 @@
-# todo_list.github.io
+# A simple TODO List app using HTML, CSS, JAVASCRIPT
